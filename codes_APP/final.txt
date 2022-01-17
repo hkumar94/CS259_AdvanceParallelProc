@@ -1,0 +1,20 @@
+__In Node B__ B-parent id is :34287 
+__In Node B__ B-id is :34288 
+__In Node D__ D-parent id is :34288 
+__In Node D__ D-id is :34289 
+__In Node B__ B-parent id is :34287 
+__In Node B__ B-id is :34288 
+__In Node A__ A-id is : 34287 
+__In Node C__ C-parent id is :34287 
+__In Node C__ C-id is :34290 
+__In Node E__ E-parent id is :34290 
+__In Node E__ E-id is :34291 
+__In Node A__ A-id is : 34287 
+__In Node C__ C-parent id is :34287 
+__In Node C__ C-id is :34290 
+__In Node A__ A-id is : 34287 
+__In Node C__ C-parent id is :34287 
+__In Node C__ C-id is :34290 
+__In Node F__ F-parent id is :34290 
+__In Node F__ F-id is :34292 
+__In Node A__ A-id is : 34287 

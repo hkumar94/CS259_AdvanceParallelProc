@@ -1,0 +1,16 @@
+Parent of all: 26528
+First fork id : 26529 
+Parent id in D : 923 
+D -----> : 26528 
+Parent of all: 26528
+First fork id : 0 
+Parent id in C : 26528 
+C -----> : 26529 
+Parentid : 0 
+PARENT of C -->E as its id is :26529 
+Parent of all: 26528
+First fork id : 0 
+Parent id in C : 26528 
+C -----> : 26529 
+Parentid : 0 
+CHILD of C --> F as its id is :26530 
